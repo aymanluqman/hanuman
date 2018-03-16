@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Authors
+permalink: "/authors/"
+layout: page
 comments: false
-permalink: /authors/
 ---
 
 <div id="authors">
